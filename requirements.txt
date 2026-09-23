@@ -1,0 +1,9 @@
+numba
+numpy
+opencv-python
+pycryptodome
+PyQt5
+torch
+torchvision
+ultralytics
+

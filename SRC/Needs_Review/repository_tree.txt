@@ -1,0 +1,79 @@
+Folder PATH listing
+Volume serial number is 0EB8-D0DF
+C:\USERS\SANJIVANI UNIVERSITY\DESKTOP\FINAL GITHUB REPOSITORIES\SIH-TEAMNAME-SIHID
+|   .gitattributes
+|   .gitignore
+|   LICENSE
+|   README.md
+|   requirements.txt
+|   
++---Dataset
+|       README.md
+|       
++---Documentation
+|       Classification_Comprehensive_Document.docx
+|       Classification_Source_Presentation.pptx
+|       Detection_Comprehensive_Document.docx
+|       Detection_Source_Presentation.pptx
+|       SIH_Documentation.pdf
+|       SIH_Presentation.pptx
+|       
++---Model
+|   +---Classification
+|   |       best.pt.encrypted
+|   |       nor_wli_nbi_table.npy
+|   |       
+|   \---Detection
+|           best.pt
+|           nor_wli_nbi_table.npy
+|           
++---Screenshot
+|   +---Demo_Video
+|   |       Classification_Demo.mp4
+|   |       
+|   \---Screenshots
+\---SRC
+    +---Classification_App
+    |   |   app.py
+    |   |   App.spec
+    |   |   
+    |   \---assets
+    |           camera.png
+    |           folder.png
+    |           icon.ico
+    |           logo.png
+    |           pause.png
+    |           save.png
+    |           upload.png
+    |           
+    +---Detection_App
+    |   |   app.py
+    |   |   app.spec
+    |   |   
+    |   \---assets
+    |           camera.png
+    |           icon.ico
+    |           logo.png
+    |           pause.png
+    |           save.png
+    |           upload.png
+    |           
+    +---Installer
+    |   +---Classification
+    |   |       App.exe
+    |   |       SAVE_Classification_App_Installer.exe
+    |   |       Spectrum-Aided-Vision-Classification.iss
+    |   |       
+    |   \---Detection
+    |           SAVE_Detection_App_Installer.exe
+    |           Spectrum-Aided-Vision-Detection.iss
+    |           
+    +---Logo
+    |       SMART_Lab.ico
+    |       SMART_Lab.png
+    |       
+    \---Needs_Review
+            MANUAL_REVIEW.md
+            repository_tree.txt
+            source_inventory.csv
+            
